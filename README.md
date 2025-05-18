@@ -44,8 +44,8 @@ A Django Rest Framework (DRF) project to manage Real Estate property listings wi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ainy07/RealEstateAPI.git
-cd RealEstateAPI
+git clone https://github.com/Ainy07/RealEstatePlatform-DRF-Swagger-scraper.git
+cd RealEstatePlatform-DRF-Swagger-scraper
 ````
 
 ### 2. Create a Virtual Environment & Install Dependencies
