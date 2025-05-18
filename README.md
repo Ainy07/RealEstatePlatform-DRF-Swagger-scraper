@@ -44,7 +44,7 @@ A Django Rest Framework (DRF) project to manage Real Estate property listings wi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/RealEstateAPI.git
+git clone https://github.com/Ainy07/RealEstateAPI.git
 cd RealEstateAPI
 ````
 
