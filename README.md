@@ -2,7 +2,6 @@
 # RealEstateAPI with JWT authentication and Swagger integration
 ---
 
-````
 # 🏠 RealEstateAPI
 
 A Django Rest Framework (DRF) project to manage Real Estate property listings with full **JWT Authentication**, **CRUD operations**, **filter/search**, **image upload**, and **Swagger API Documentation**.
@@ -46,7 +45,7 @@ A Django Rest Framework (DRF) project to manage Real Estate property listings wi
 ```bash
 git clone https://github.com/Ainy07/RealEstatePlatform-DRF-Swagger-scraper.git
 cd RealEstatePlatform-DRF-Swagger-scraper
-````
+
 
 ### 2. Create a Virtual Environment & Install Dependencies
 
